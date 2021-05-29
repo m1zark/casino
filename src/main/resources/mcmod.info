@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "aurapokemon",
+    "name": "Aurapokemon",
+    "description": "Spawning of Pokemon with special Auras and effects",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "m1zark"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
